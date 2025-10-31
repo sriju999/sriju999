@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sriju999
-- 👀 I’m interested in ... photography, biking
-- 🌱 I’m currently learning ... SQL
-- 💞️ I’m looking to collaborate on ... data analytics
+- 👀 I’m interested in ... photography, biking, traveling
+- 🌱 SCM Analyst, Project Management, Program Management
+- 💞️ Power BI, Excel, Minitab, Microsoft Projects, V6, Azure
 - 📫 How to reach me ... sridip.nitttrkol@gmail.com
 
 <!---
